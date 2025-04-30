@@ -94,9 +94,9 @@ I won't talk about them one by one
 
 ## BIOS recommended settings
 
-  Advanced -- Configuration of the windows operating system -- changed to CSMUEFI
+  Advanced -- Configuration  -- changed to CSMUEFI
 
-  Advanced -- Configuration of the Windows operating system -- Secure boot -- Disable secure boot (disable by default)
+  Advanced -- Configuration  -- Secure boot -- Disable secure boot (disable by default)
 
   Advanced -- USB settings -- XHCI Hand-off -- On (on by default)
 
