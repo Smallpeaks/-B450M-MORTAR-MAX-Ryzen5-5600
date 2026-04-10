@@ -1,11 +1,11 @@
 ## MSi-B450M-MORTAR-MAX
-### MSi-B450M-MORTAR-MAX-Ryzen5-5600-RX6650XT-OC1.0.5
+### MSi-B450M-MORTAR-MAX-Ryzen5-5600-RX6650XT-OC1.0.8
 ### The overall configuration list of my black Apple host is as follows:
 
 | Part Type     | Part Model 
 |---------------|----------------------------------------------|
-| Opencore      |  1.0.5                                       |
-| Version       |  macOS Sequoia15.5Beta3                      |
+| Opencore      |  1.0.8                                       |
+| Version       |  macOS Sequoia15.7-26.4                      |
 | Motherboard   |  MSi-B450M-MORTAR-MAX                        |
 | Hard disk     |  KPART512GBC2DVT M2                          |
 | Graphics      |  RX6650XT 8G                                 |
@@ -17,7 +17,7 @@
 | Chassis       |  LOVINGCOOL Ocean View Room                  |
 | sound card    |   Realtek® ALC892/ALC897 Codec      alcid=1  |
 
-MSi-B450M-MORTAR-MAX Series Motherboards MacOS 15.5 Completeness:
+MSi-B450M-MORTAR-MAX Series Motherboards MacOS 15.7-26.4 Completeness:
 
 Front-end and back-end sound output normal
 
@@ -37,7 +37,7 @@ It's normal to wake up from sleep
 
 Solution 1: The onboard intel AX210 Bluetooth and WIFi can be driven, and the network speed is very good, but it does not support air-car. MacOS 15 requires the HELIPORT APP to use the WIFI function
 
-Solution 2: The onboard intel AX210 Bluetooth and WIFi can be driven, and the network speed is very good, but it does not support air-carry; MacOS 15 requires OCLP patching here using option 2
+Solution 2: The onboard intel AX210 Bluetooth and WIFi can be driven, and the network speed is very good, but it does not support air-carry; MacOS 15.7-26.4 requires OCLP patching here using option 2
 
 If you want to achieve the additional function of air carry, you need to buy a NVME M.2 SSD to connect to the Heiguo wireless network card
 
